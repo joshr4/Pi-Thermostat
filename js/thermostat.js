@@ -28,7 +28,6 @@ var tstat = function (){
             this.unoccSch[i][j] = {start:'00:00', end:'00:00'};
        }
     }
-
 }
 
 tstat.prototype.getTstat = function(){
@@ -78,7 +77,7 @@ tstat.prototype.enabled = function(){ //run this main function when stat is enab
 
 
 }
-
+//socket io
 
 
 $(document).ready(function() {

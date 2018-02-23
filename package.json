@@ -2,13 +2,12 @@
   "name": "thermostat",
   "version": "1.0.0",
   "description": "a pi project",
-  "main": "led.js",
   "dependencies": {
     "onoff": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
+    "start": "node led.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
