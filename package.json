@@ -1,0 +1,24 @@
+{
+  "name": "thermostat",
+  "version": "1.0.0",
+  "description": "a pi project",
+  "main": "led.js",
+  "dependencies": {
+    "onoff": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshr4/Pi-Thermostat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshr4/Pi-Thermostat/issues"
+  },
+  "homepage": "https://github.com/joshr4/Pi-Thermostat#readme"
+}
