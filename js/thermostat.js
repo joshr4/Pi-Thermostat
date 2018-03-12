@@ -1,3 +1,5 @@
+module.exports = tstat;
+
 var tstat = function (){
 
     //inputs and outputs
